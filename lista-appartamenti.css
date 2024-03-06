@@ -7,6 +7,9 @@
     text-decoration: none; 
      color: black; 
 } 
+.fixed-top{
+    top: -5px !important
+}
 
 .container.my-5 .d-flex img {
     filter: invert(44%) sepia(93%) saturate(7483%) hue-rotate(332deg) brightness(92%) contrast(93%);

@@ -4,6 +4,9 @@
     }
 }   
 
+.fixed-top{
+    top: -5px !important
+}
 
 header .col-12.col-lg-6.col-xxl-auto img {
     border-radius: 25px 0 0 25px;
